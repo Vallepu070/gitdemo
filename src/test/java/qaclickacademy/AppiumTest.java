@@ -25,7 +25,11 @@ public class AppiumTest {
 	{
 		System.out.println("IOSApps");	
 	}
-	
+	@Test
+	public void MotoApps()
+	{
+		System.out.println("IOSApps");	
+	}
 	
 	
 	
